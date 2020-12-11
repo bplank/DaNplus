@@ -1,0 +1,7 @@
+{'DA': {'tasks': {'ne1': {'column_idx': 1,
+                          'metric': 'multi_span_f1',
+                          'task_type': 'multiseq',
+                          'threshold': 0.9}},
+        'train_data_path': '../data/da_news_train_mh.tsv',
+        'validation_data_path': '../data/da_news_dev_mh.tsv',
+        'word_idx': 0}}
