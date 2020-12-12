@@ -1,5 +1,9 @@
 # DaN+ (DaNplus): Danish Nested Named Entities and Lexical Normalization
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<a href="DaNplus-poster.pdf"><img src="img/DaNplus-poster.png" width="100"></a>
+
 This repository contains the code to reproduce the results of Plank, Nørgaard Jensen, van der Goot, 2020 (COLING) on Nested NER and Lexical Normalization for Danish: [DaN+](https://www.aclweb.org/anthology/2020.coling-main.583/). In this repository you'll find:
 
 * `configs`: configuration files for MaChAmp
