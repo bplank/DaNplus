@@ -1,0 +1,2284 @@
+{
+    "0": {
+        "ID": "5bstz0",
+        "date": "11-08-2016",
+        "permalink": "/r/Denmark/comments/5bstz0/sweden_swedish_flag_danskere_unite_like_dettte/",
+        "Layer1": "B-LOC O B-LOCderiv O O B-LOCderiv O O O O O O O O O O O O O O O O B-LOC O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "1": {
+        "ID": "8r8ga6",
+        "date": "06-15-2018",
+        "permalink": "/r/Denmark/comments/8r8ga6/det_er_valdemarsdag_mine_lyndanisser/",
+        "Layer1": "O O B-MISC O O O O O",
+        "Layer2": "O O B-PERpart O O O O O"
+    },
+    "2": {
+        "ID": "6ky4ri",
+        "date": "07-03-2017",
+        "permalink": "/r/Denmark/comments/6ky4ri/savage_xpost_fra_r4chan/",
+        "Layer1": "O O O O B-MISC O O",
+        "Layer2": "O O O O O O O"
+    },
+    "3": {
+        "ID": "8ckfcf",
+        "date": "04-16-2018",
+        "permalink": "/r/Denmark/comments/8ckfcf/i_dag_er_det_hendes_majest\u00e6t_dronning_margrethe/",
+        "Layer1": "O O O O O O O B-PER I-PER I-PER I-PER O O O O O O O O O B-MISC O O O B-ORG O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "4": {
+        "ID": "5ecafv",
+        "date": "11-23-2016",
+        "permalink": "/r/Denmark/comments/5ecafv/swedish_royal_family_sweden_king_and_queen_of/",
+        "Layer1": "B-LOCderiv O O O B-LOC O O O O O B-LOC O B-LOCderiv O O O B-PER O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "5": {
+        "ID": "c0u5mv",
+        "date": "06-15-2019",
+        "permalink": "/r/Denmark/comments/c0u5mv/today_is_the_\ud835\udfd6\ud835\udfce\ud835\udfce\ud835\udc2d\ud835\udc21_birthday_of_the_oldest/",
+        "Layer1": "O O O O O O O O O O O O O O O O B-LOC O O O O B-MISC O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "6": {
+        "ID": "ctc3vm",
+        "date": "08-21-2019",
+        "permalink": "/r/Denmark/comments/ctc3vm/trump_aflyser_bes\u00f8g_fordi_mette_frederiksen_ikke/",
+        "Layer1": "B-PER O O O B-PER I-PER O O O O O O B-LOC O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "7": {
+        "ID": "6ljymv",
+        "date": "07-06-2017",
+        "permalink": "/r/Denmark/comments/6ljymv/der_manglede_en_language_differences_p\u00e5_rdenmark/",
+        "Layer1": "O O O O O O O O B-MISC O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "8": {
+        "ID": "6keh84",
+        "date": "06-30-2017",
+        "permalink": "/r/Denmark/comments/6keh84/meanwhile_at_roskilde_festival/",
+        "Layer1": "O O B-MISC I-MISC O",
+        "Layer2": "O O B-LOC O O"
+    },
+    "9": {
+        "ID": "byp46b",
+        "date": "06-10-2019",
+        "permalink": "/r/Denmark/comments/byp46b/lad_os_endnu_engang_f\u00e5_hejst_flaget_hele_vejen/",
+        "Layer1": "O O O O O O O O O O O O B-ORG O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "10": {
+        "ID": "4ywaam",
+        "date": "08-22-2016",
+        "permalink": "/r/Denmark/comments/4ywaam/danmark_vinder_guld_i_h\u00e5ndbold/",
+        "Layer1": "B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O",
+        "Layer2": "B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O"
+    },
+    "11": {
+        "ID": "8kb20x",
+        "date": "05-18-2018",
+        "permalink": "/r/Denmark/comments/8kb20x/frederiksberg_mr_burns/",
+        "Layer1": "B-LOC O O O B-PER O",
+        "Layer2": "O O O O O O"
+    },
+    "12": {
+        "ID": "7gk0ap",
+        "date": "11-30-2017",
+        "permalink": "/r/Denmark/comments/7gk0ap/inb4_alle_thorsfejderne/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "13": {
+        "ID": "cvbkw5",
+        "date": "08-26-2019",
+        "permalink": "/r/Denmark/comments/cvbkw5/copenhagen_bin_for_cigs/",
+        "Layer1": "B-LOC O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "14": {
+        "ID": "8vd3go",
+        "date": "07-02-2018",
+        "permalink": "/r/Denmark/comments/8vd3go/godt_holdbillede_af_landsholdet/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "15": {
+        "ID": "90xv6m",
+        "date": "07-22-2018",
+        "permalink": "/r/Denmark/comments/90xv6m/det_er_i_dag_syv_\u00e5r_siden_massakren_p\u00e5_ut\u00f8ya_i/",
+        "Layer1": "O O O O O O O O O B-LOC O B-LOC O O O O O B-LOCderiv O O O O O O B-LOCderiv O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "16": {
+        "ID": "2w6a6u",
+        "date": "02-17-2015",
+        "permalink": "/r/Denmark/comments/2w6a6u/here_at_rfrance_we_are_standing_with_you/",
+        "Layer1": "O O B-MISC O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "17": {
+        "ID": "ca4hy8",
+        "date": "07-07-2019",
+        "permalink": "/r/Denmark/comments/ca4hy8/rob_har_fat_i_boget_gutter/",
+        "Layer1": "B-PER O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "18": {
+        "ID": "83l9nm",
+        "date": "03-11-2018",
+        "permalink": "/r/Denmark/comments/83l9nm/korrupt/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "19": {
+        "ID": "ak0wm6",
+        "date": "01-26-2019",
+        "permalink": "/r/Denmark/comments/ak0wm6/fordums_storhedstid/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "20": {
+        "ID": "bnol79",
+        "date": "05-12-2019",
+        "permalink": "/r/Denmark/comments/bnol79/nogle_helte_b\u00e6rer_ikke_kappe/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "21": {
+        "ID": "4pi3wp",
+        "date": "06-24-2016",
+        "permalink": "/r/Denmark/comments/4pi3wp/lars_l\u00f8kke_hvis_du_opstemmer_dette_vil_det_dukke/",
+        "Layer1": "B-PER I-PER O O O O O O O O O O B-MISC I-MISC O O O O B-PER I-PER O",
+        "Layer2": "O O O O O O O O O O O O B-ORG O O O O O O O O"
+    },
+    "22": {
+        "ID": "7evv8l",
+        "date": "11-23-2017",
+        "permalink": "/r/Denmark/comments/7evv8l/beskyt_neutraliteten_red_internettet/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "23": {
+        "ID": "aehsth",
+        "date": "01-10-2019",
+        "permalink": "/r/Denmark/comments/aehsth/omg_the_yellow_vests_are_taking_over_here_in/",
+        "Layer1": "O O O O O O O O O B-LOC O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "24": {
+        "ID": "8ons2e",
+        "date": "06-05-2018",
+        "permalink": "/r/Denmark/comments/8ons2e/det_er_grundlovsdag_mine_danske_statsborgere/",
+        "Layer1": "O O B-MISC O O B-LOCderiv O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "25": {
+        "ID": "dah3ie",
+        "date": "09-29-2019",
+        "permalink": "/r/Denmark/comments/dah3ie/en_betjent_\u00f8jner_en_chance/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "26": {
+        "ID": "ctxgsr",
+        "date": "08-22-2019",
+        "permalink": "/r/Denmark/comments/ctxgsr/trump_p\u00e5_eventyr_i_skandinavien/",
+        "Layer1": "B-PER O O O B-LOC O",
+        "Layer2": "O O O O O O"
+    },
+    "27": {
+        "ID": "9xfunv",
+        "date": "11-16-2018",
+        "permalink": "/r/Denmark/comments/9xfunv/hvil_i_fred_morten/",
+        "Layer1": "O O O O B-PER O",
+        "Layer2": "O O O O O O"
+    },
+    "28": {
+        "ID": "ctwkpg",
+        "date": "08-22-2019",
+        "permalink": "/r/Denmark/comments/ctwkpg/en_\u00e6gte_forretningsmand/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "29": {
+        "ID": "8goneu",
+        "date": "05-03-2018",
+        "permalink": "/r/Denmark/comments/8goneu/steam_forst\u00e5r_det/",
+        "Layer1": "B-ORG O O O",
+        "Layer2": "O O O O"
+    },
+    "30": {
+        "ID": "579afp",
+        "date": "10-13-2016",
+        "permalink": "/r/Denmark/comments/579afp/s\u00e5_let_slipper_i_ikke_tyskland/",
+        "Layer1": "O O O O O O B-LOC O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "31": {
+        "ID": "crrs92",
+        "date": "08-18-2019",
+        "permalink": "/r/Denmark/comments/crrs92/danish_states_of_america_when_denmark_buys_the/",
+        "Layer1": "B-MISC I-MISC I-MISC I-MISC O O B-ORG O O B-LOC I-LOC O",
+        "Layer2": "B-LOCderiv O O B-LOC O O B-LOC O O O O O"
+    },
+    "32": {
+        "ID": "btkzjz",
+        "date": "05-27-2019",
+        "permalink": "/r/Denmark/comments/btkzjz/protip_vis_at_du_st\u00f8tter_b\u00e5de_stram_kurs_og_nye/",
+        "Layer1": "O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "33": {
+        "ID": "9k4zcx",
+        "date": "09-30-2018",
+        "permalink": "/r/Denmark/comments/9k4zcx/rip_kim_larsen/",
+        "Layer1": "O B-PER I-PER O",
+        "Layer2": "O O O O"
+    },
+    "34": {
+        "ID": "d5f07q",
+        "date": "09-17-2019",
+        "permalink": "/r/Denmark/comments/d5f07q/en_trals_trend_i_danmark/",
+        "Layer1": "O O O O B-LOC O",
+        "Layer2": "O O O O O O"
+    },
+    "35": {
+        "ID": "90e33u",
+        "date": "07-20-2018",
+        "permalink": "/r/Denmark/comments/90e33u/knuste_hjerter/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "36": {
+        "ID": "5h5vg3",
+        "date": "12-08-2016",
+        "permalink": "/r/Denmark/comments/5h5vg3/n\u00e5r_shitposts_fra_rdenmark_ender_p\u00e5_rall/",
+        "Layer1": "O O O B-MISC O O B-MISC O",
+        "Layer2": "O O O O O O O O"
+    },
+    "37": {
+        "ID": "cpa5u6",
+        "date": "08-12-2019",
+        "permalink": "/r/Denmark/comments/cpa5u6/i_cirka_7_m\u00e5neder_hos_postnord_har_jeg_taget_alle/",
+        "Layer1": "O O O O O B-ORG O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "38": {
+        "ID": "7nnt20",
+        "date": "01-03-2018",
+        "permalink": "/r/Denmark/comments/7nnt20/i_went_to_denmark_and_took_a_picture_starterpack/",
+        "Layer1": "O O O O B-LOC O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "39": {
+        "ID": "criinc",
+        "date": "08-17-2019",
+        "permalink": "/r/Denmark/comments/criinc/denmark_offers_to_buy_us/",
+        "Layer1": "B-ORG O O O B-LOC I-LOC I-LOC O",
+        "Layer2": "B-LOC O O O O O O O"
+    },
+    "40": {
+        "ID": "8sp6hp",
+        "date": "06-21-2018",
+        "permalink": "/r/Denmark/comments/8sp6hp/det_er_gr\u00f8nlands_nationaldag_mine_inuitter/",
+        "Layer1": "O O B-LOC O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "41": {
+        "ID": "43zc2y",
+        "date": "02-03-2016",
+        "permalink": "/r/Denmark/comments/43zc2y/well_played_elgiganten/",
+        "Layer1": "O O O B-ORG O O",
+        "Layer2": "O O O O O O"
+    },
+    "42": {
+        "ID": "csuglo",
+        "date": "08-20-2019",
+        "permalink": "/r/Denmark/comments/csuglo/udmelding_fra_den_gr\u00f8nlandske_landsstyreformand/",
+        "Layer1": "O O O B-LOCderiv O O",
+        "Layer2": "O O O O O O"
+    },
+    "43": {
+        "ID": "bx80m7",
+        "date": "06-06-2019",
+        "permalink": "/r/Denmark/comments/bx80m7/stram_kurs_kommer_ikke_i_folketinget/",
+        "Layer1": "B-ORG I-ORG O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "44": {
+        "ID": "dly7me",
+        "date": "10-23-2019",
+        "permalink": "/r/Denmark/comments/dly7me/breaking_news/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "45": {
+        "ID": "9qaq44",
+        "date": "10-22-2018",
+        "permalink": "/r/Denmark/comments/9qaq44/dkrap/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "46": {
+        "ID": "cwxlkx",
+        "date": "08-29-2019",
+        "permalink": "/r/Denmark/comments/cwxlkx/det_er_dejligt_med_solen_men_husk_vores_sm\u00e5/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O"
+    },
+    "47": {
+        "ID": "8jlc87",
+        "date": "05-15-2018",
+        "permalink": "/r/Denmark/comments/8jlc87/det_virkelig_lort/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "48": {
+        "ID": "davevu",
+        "date": "09-29-2019",
+        "permalink": "/r/Denmark/comments/davevu/lukket_grundet_\u00e5bning/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "49": {
+        "ID": "c37dju",
+        "date": "06-21-2019",
+        "permalink": "/r/Denmark/comments/c37dju/det_er_gr\u00f8nlands_nationaldag_mine_k\u00e6mpe_eskimoer/",
+        "Layer1": "O O B-LOC O O O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "50": {
+        "ID": "4oxyke",
+        "date": "06-20-2016",
+        "permalink": "/r/Denmark/comments/4oxyke/mulle_har_altid_dr\u00f8mt_om_at_komme_p\u00e5_forsiden_af/",
+        "Layer1": "B-PER O O O O O O O O O B-ORG O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "51": {
+        "ID": "8idn35",
+        "date": "05-10-2018",
+        "permalink": "/r/Denmark/comments/8idn35/gammel_men_gylden/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "52": {
+        "ID": "5dy7d0",
+        "date": "11-20-2016",
+        "permalink": "/r/Denmark/comments/5dy7d0/vi_m\u00e5_ikke_lade_amerikanerne_have_deres_memes_for/",
+        "Layer1": "O O O O B-LOCderiv O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "53": {
+        "ID": "cg27mg",
+        "date": "07-22-2019",
+        "permalink": "/r/Denmark/comments/cg27mg/skandinavien_i_en_n\u00f8deskal/",
+        "Layer1": "B-LOC O O O O",
+        "Layer2": "O O O O O"
+    },
+    "54": {
+        "ID": "671yqv",
+        "date": "04-23-2017",
+        "permalink": "/r/Denmark/comments/671yqv/rdenmark_i_en_n\u00f8ddeskal/",
+        "Layer1": "B-MISC O O O O",
+        "Layer2": "O O O O O"
+    },
+    "55": {
+        "ID": "96f0pd",
+        "date": "08-11-2018",
+        "permalink": "/r/Denmark/comments/96f0pd/kronprinsen_hygger_sig_med_suspekt_post_malone/",
+        "Layer1": "O O O O B-ORG O B-PER I-PER O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "56": {
+        "ID": "d02qob",
+        "date": "09-06-2019",
+        "permalink": "/r/Denmark/comments/d02qob/\u00e6ndr_min_holdning/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "57": {
+        "ID": "bbj0b1",
+        "date": "04-10-2019",
+        "permalink": "/r/Denmark/comments/bbj0b1/til_os_som_har_dansk_som_andet_sprog/",
+        "Layer1": "O O O O B-LOCderiv O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "58": {
+        "ID": "c65aht",
+        "date": "06-27-2019",
+        "permalink": "/r/Denmark/comments/c65aht/nyhavn_p\u00e5_instagram/",
+        "Layer1": "B-LOC O O O",
+        "Layer2": "O O O O"
+    },
+    "59": {
+        "ID": "adg7cv",
+        "date": "01-07-2019",
+        "permalink": "/r/Denmark/comments/adg7cv/fun_fact_about_denmark_and_why_we_are_so_stinking/",
+        "Layer1": "O O O B-LOC O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "60": {
+        "ID": "bcaozc",
+        "date": "04-12-2019",
+        "permalink": "/r/Denmark/comments/bcaozc/for_helvede_april/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "61": {
+        "ID": "bmi2sr",
+        "date": "05-09-2019",
+        "permalink": "/r/Denmark/comments/bmi2sr/danmarks_nationalfugl/",
+        "Layer1": "B-LOC O O O",
+        "Layer2": "O O O O"
+    },
+    "62": {
+        "ID": "864sfu",
+        "date": "03-22-2018",
+        "permalink": "/r/Denmark/comments/864sfu/p\u00f8lser_forbudt/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "63": {
+        "ID": "b0k0tn",
+        "date": "03-13-2019",
+        "permalink": "/r/Denmark/comments/b0k0tn/ole_pr\u00f8ver_et_nyt_h\u00e5ndv\u00e5ben/",
+        "Layer1": "B-PER O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "64": {
+        "ID": "byut75",
+        "date": "06-10-2019",
+        "permalink": "/r/Denmark/comments/byut75/demokratisk_migmig/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "65": {
+        "ID": "akedns",
+        "date": "01-28-2019",
+        "permalink": "/r/Denmark/comments/akedns/danmark_sl\u00e5r_norge_3122_og_er_verdensmestre_vi/",
+        "Layer1": "B-ORG O B-ORG O O O O O O O B-LOC O O O B-LOCderiv O O B-PER O O O B-PER O O O B-PER O O O B-LOC O O O O O O O O O O O O O O O O O",
+        "Layer2": "B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "66": {
+        "ID": "a97f5p",
+        "date": "12-25-2018",
+        "permalink": "/r/Denmark/comments/a97f5p/gl\u00e6delig_jule_mine_gutter/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "67": {
+        "ID": "7gvulo",
+        "date": "12-02-2017",
+        "permalink": "/r/Denmark/comments/7gvulo/i_er_blevet_bes\u00f8gt_af_en_s\u00f8lv_kaj_denne_kaj_er_en/",
+        "Layer1": "O O O O O O O B-PER O O B-PER O O O O O O B-PERderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "68": {
+        "ID": "c5prlu",
+        "date": "06-26-2019",
+        "permalink": "/r/Denmark/comments/c5prlu/vores_k\u00e6re_dronning/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "69": {
+        "ID": "83l9ln",
+        "date": "03-11-2018",
+        "permalink": "/r/Denmark/comments/83l9ln/som_ind_i/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "70": {
+        "ID": "83l9jh",
+        "date": "03-11-2018",
+        "permalink": "/r/Denmark/comments/83l9jh/helvede/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "71": {
+        "ID": "920jan",
+        "date": "07-26-2018",
+        "permalink": "/r/Denmark/comments/920jan/_/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "72": {
+        "ID": "9xkmkz",
+        "date": "11-16-2018",
+        "permalink": "/r/Denmark/comments/9xkmkz/shook/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "73": {
+        "ID": "8hegh3",
+        "date": "05-06-2018",
+        "permalink": "/r/Denmark/comments/8hegh3/min_kultur_er_ikke_din_brudekjole/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "74": {
+        "ID": "aatt6j",
+        "date": "12-30-2018",
+        "permalink": "/r/Denmark/comments/aatt6j/en_lille_hilsen_fra_keijisan_og_wakayama_roligans/",
+        "Layer1": "O O O O B-PER O B-ORG I-ORG O O",
+        "Layer2": "O O O O O O B-LOC O O O"
+    },
+    "75": {
+        "ID": "7m1orb",
+        "date": "12-25-2017",
+        "permalink": "/r/Denmark/comments/7m1orb/ikke_hjeml\u00f8s_mere/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "76": {
+        "ID": "9yphgw",
+        "date": "11-20-2018",
+        "permalink": "/r/Denmark/comments/9yphgw/_/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "77": {
+        "ID": "defrcc",
+        "date": "10-07-2019",
+        "permalink": "/r/Denmark/comments/defrcc/det_\u00e4r_viktigt_att_handla_essentials_n\u00e4r_man_\u00e4r_i/",
+        "Layer1": "O O O O O O O O O O B-LOC O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O"
+    },
+    "78": {
+        "ID": "aubduz",
+        "date": "02-25-2019",
+        "permalink": "/r/Denmark/comments/aubduz/korpige_fra_ugen_plus_det_l\u00f8se_p\u00e5_dr2_kommer_til/",
+        "Layer1": "O O B-MISC I-MISC I-MISC I-MISC O B-ORG O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "79": {
+        "ID": "a26yq8",
+        "date": "12-02-2018",
+        "permalink": "/r/Denmark/comments/a26yq8/made_from_cigarette_butts_in_\u00f8restad_st/",
+        "Layer1": "O O O O O B-LOC I-LOC O",
+        "Layer2": "O O O O O B-LOC O O"
+    },
+    "80": {
+        "ID": "5gf91o",
+        "date": "12-04-2016",
+        "permalink": "/r/Denmark/comments/5gf91o/expat_problems_in_denmark/",
+        "Layer1": "O O O B-LOC O",
+        "Layer2": "O O O O O"
+    },
+    "81": {
+        "ID": "ckm2ps",
+        "date": "08-01-2019",
+        "permalink": "/r/Denmark/comments/ckm2ps/det_moderne_gennembrud_opdateret/",
+        "Layer1": "B-MISC I-MISC I-MISC O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "82": {
+        "ID": "8s8579",
+        "date": "06-19-2018",
+        "permalink": "/r/Denmark/comments/8s8579/gutter_jeg_har_fundet_ud_af_hvor_det_nye_elder/",
+        "Layer1": "O O O O O O O O O O O B-MISC I-MISC O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O"
+    },
+    "83": {
+        "ID": "d5yqrl",
+        "date": "09-19-2019",
+        "permalink": "/r/Denmark/comments/d5yqrl/forvirret_dansker_spottet_til_en_starcraft_ii/",
+        "Layer1": "O B-LOCderiv O O O B-MISC I-MISC O O B-LOC O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "84": {
+        "ID": "a9duda",
+        "date": "12-25-2018",
+        "permalink": "/r/Denmark/comments/a9duda/hvis_du_kan_huske_den_her_er_du_legalt_berretet/",
+        "Layer1": "O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "85": {
+        "ID": "a82k3r",
+        "date": "12-21-2018",
+        "permalink": "/r/Denmark/comments/a82k3r/we_are_deeply_sorry_for_what_happened_to_louisa/",
+        "Layer1": "O O O O O O O O B-PER O B-LOC O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O"
+    },
+    "86": {
+        "ID": "8v97so",
+        "date": "07-01-2018",
+        "permalink": "/r/Denmark/comments/8v97so/leverpostej_og_agurk_f\u00e5r_tusindvis_af_opdutter/",
+        "Layer1": "O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "87": {
+        "ID": "9y7hdd",
+        "date": "11-19-2018",
+        "permalink": "/r/Denmark/comments/9y7hdd/lad_v\u00e6re_med_at_v\u00e6re_doven/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "88": {
+        "ID": "agslku",
+        "date": "01-17-2019",
+        "permalink": "/r/Denmark/comments/agslku/det_eneste_brexit_der_t\u00e6ller/",
+        "Layer1": "O O B-ORGpart O O O",
+        "Layer2": "O O O O O O"
+    },
+    "89": {
+        "ID": "dy54cm",
+        "date": "11-19-2019",
+        "permalink": "/r/Denmark/comments/dy54cm/ting_du_ikke_m\u00e5_p\u00e5_biblioteket/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "90": {
+        "ID": "8l927p",
+        "date": "05-22-2018",
+        "permalink": "/r/Denmark/comments/8l927p/inger_st\u00f8jbergs_ramadanlogik/",
+        "Layer1": "B-PER I-PER B-MISCpart O",
+        "Layer2": "O O O O"
+    },
+    "91": {
+        "ID": "ctt4kg",
+        "date": "08-22-2019",
+        "permalink": "/r/Denmark/comments/ctt4kg/having_to_explain_the_complex_nature_of/",
+        "Layer1": "O O O O O O O O B-ORG O O O O",
+        "Layer2": "O O O O O O O O O O O O O"
+    },
+    "92": {
+        "ID": "b8gje5",
+        "date": "04-02-2019",
+        "permalink": "/r/Denmark/comments/b8gje5/en_grej_vi_alla_kan_h\u00e5lla_med_om_som_enar_oss/",
+        "Layer1": "O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "93": {
+        "ID": "agjaa7",
+        "date": "01-16-2019",
+        "permalink": "/r/Denmark/comments/agjaa7/forhelvede_far/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "94": {
+        "ID": "bsrv7y",
+        "date": "05-25-2019",
+        "permalink": "/r/Denmark/comments/bsrv7y/gl\u00e6d_dig_til_den_danske_version_af_game_of_thrones/",
+        "Layer1": "O O O O B-LOCderiv O O B-MISC I-MISC I-MISC O O O",
+        "Layer2": "O O O O O O O O O O O O O"
+    },
+    "95": {
+        "ID": "dq158i",
+        "date": "11-01-2019",
+        "permalink": "/r/Denmark/comments/dq158i/radio_24syvs_politiske_redakt\u00f8r_brian_weichardt/",
+        "Layer1": "B-ORG I-ORG O O B-PER I-PER O O O O O B-ORGderiv I-ORGderiv O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "96": {
+        "ID": "ccoqeb",
+        "date": "07-13-2019",
+        "permalink": "/r/Denmark/comments/ccoqeb/den_smager_faktisk_ikke_s\u00e5_godt/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "97": {
+        "ID": "bgs86j",
+        "date": "04-24-2019",
+        "permalink": "/r/Denmark/comments/bgs86j/jeg_har_f\u00e5et_en_s\u00f8n_som_er_blind/",
+        "Layer1": "O O O O O O O O O O O O O O B-PER O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "98": {
+        "ID": "de1rmz",
+        "date": "10-06-2019",
+        "permalink": "/r/Denmark/comments/de1rmz/jeg_tog_p\u00e5_stranden_klokken_lort_om_natten_s\u00e5_du/",
+        "Layer1": "O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O"
+    },
+    "99": {
+        "ID": "deicad",
+        "date": "10-07-2019",
+        "permalink": "/r/Denmark/comments/deicad/cyklister_i_k\u00f8benhavn/",
+        "Layer1": "O O B-LOC O",
+        "Layer2": "O O O O"
+    },
+    "100": {
+        "ID": "8r05wr",
+        "date": "06-14-2018",
+        "permalink": "/r/Denmark/comments/8r05wr/forbandede_tyskere/",
+        "Layer1": "O B-LOCderiv O",
+        "Layer2": "O O O"
+    },
+    "101": {
+        "ID": "b5q4o6",
+        "date": "03-26-2019",
+        "permalink": "/r/Denmark/comments/b5q4o6/dem_i_r\u00f8d_stemte_for_artikel_17_tidligere_art_13/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O B-ORGpart O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "102": {
+        "ID": "4v5eup",
+        "date": "07-29-2016",
+        "permalink": "/r/Denmark/comments/4v5eup/n\u00e5r_man_er_uenig_p\u00e5_reddit/",
+        "Layer1": "O O O O O B-ORG O",
+        "Layer2": "O O O O O O O"
+    },
+    "103": {
+        "ID": "bxes99",
+        "date": "06-06-2019",
+        "permalink": "/r/Denmark/comments/bxes99/jeg_h\u00e5ber_lars_g\u00e5r_efter_det_eneste_rigtige_en/",
+        "Layer1": "O O B-PER O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "104": {
+        "ID": "axjhkr",
+        "date": "03-05-2019",
+        "permalink": "/r/Denmark/comments/axjhkr/hvem_ringer_til_brands\u00e5rsafdelingen/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "105": {
+        "ID": "96xjcc",
+        "date": "08-13-2018",
+        "permalink": "/r/Denmark/comments/96xjcc/a_colorized_photo_of_danish_resistance_fighters/",
+        "Layer1": "O O O O B-LOCderiv O O O O O O O B-LOCderiv O O B-LOC O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O"
+    },
+    "106": {
+        "ID": "dkwr2g",
+        "date": "10-21-2019",
+        "permalink": "/r/Denmark/comments/dkwr2g/m\u00e5_gud_v\u00e6re_os_n\u00e5dig/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "107": {
+        "ID": "99f9py",
+        "date": "08-23-2018",
+        "permalink": "/r/Denmark/comments/99f9py/mvh_lars/",
+        "Layer1": "O B-PER O",
+        "Layer2": "O O O"
+    },
+    "108": {
+        "ID": "7m74nx",
+        "date": "12-26-2017",
+        "permalink": "/r/Denmark/comments/7m74nx/harjegret_gutter/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "109": {
+        "ID": "5f1xnu",
+        "date": "11-27-2016",
+        "permalink": "/r/Denmark/comments/5f1xnu/kajmeme_spottet_p\u00e5_rcanada/",
+        "Layer1": "B-PERpart O O B-MISC O",
+        "Layer2": "O O O O O"
+    },
+    "110": {
+        "ID": "aql1fp",
+        "date": "02-15-2019",
+        "permalink": "/r/Denmark/comments/aql1fp/en_venlig_dame_ved_navn_fru_larsen_har_selv/",
+        "Layer1": "O O O O O O B-PER O O O O O O O O O B-MISC O B-LOC O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "111": {
+        "ID": "d38d4l",
+        "date": "09-13-2019",
+        "permalink": "/r/Denmark/comments/d38d4l/nordjyllands_politi_kaster_sig_ud_i_jokes/",
+        "Layer1": "B-ORG I-ORG O O O O O O",
+        "Layer2": "B-LOC O O O O O O O"
+    },
+    "112": {
+        "ID": "czhb4h",
+        "date": "09-04-2019",
+        "permalink": "/r/Denmark/comments/czhb4h/wonderful_dawn_copenhagen/",
+        "Layer1": "O O O B-LOC O O",
+        "Layer2": "O O O O O O"
+    },
+    "113": {
+        "ID": "d3m5fg",
+        "date": "09-13-2019",
+        "permalink": "/r/Denmark/comments/d3m5fg/n\u00e5r_det_er_fredag_og_du_bare_vil_hjem_og_se/",
+        "Layer1": "O O O O O O O O O O O O B-MISC I-MISC O",
+        "Layer2": "O O O O O O O O O O O O B-ORG O O"
+    },
+    "114": {
+        "ID": "bxtvwc",
+        "date": "06-07-2019",
+        "permalink": "/r/Denmark/comments/bxtvwc/savage_hos_liberalalliance_m\u00e5_aftenens/",
+        "Layer1": "O O O O B-ORG I-ORG O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "115": {
+        "ID": "80knu4",
+        "date": "02-27-2018",
+        "permalink": "/r/Denmark/comments/80knu4/relaterbart/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "116": {
+        "ID": "caj2mr",
+        "date": "07-08-2019",
+        "permalink": "/r/Denmark/comments/caj2mr/se_hvordan_g\u00e6sterne_forlod_roskilde_festival_i/",
+        "Layer1": "O O O O B-MISC I-MISC O O O",
+        "Layer2": "O O O O B-LOC O O O O"
+    },
+    "117": {
+        "ID": "drerc1",
+        "date": "11-04-2019",
+        "permalink": "/r/Denmark/comments/drerc1/kan_ikke_helt_huske_hvor_jeg_fandt_den_men_den/",
+        "Layer1": "O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O"
+    },
+    "118": {
+        "ID": "8trsli",
+        "date": "06-26-2018",
+        "permalink": "/r/Denmark/comments/8trsli/_/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "119": {
+        "ID": "bm3uft",
+        "date": "05-08-2019",
+        "permalink": "/r/Denmark/comments/bm3uft/netto_udvider/",
+        "Layer1": "B-ORG O O",
+        "Layer2": "O O O"
+    },
+    "120": {
+        "ID": "7mf11x",
+        "date": "12-27-2017",
+        "permalink": "/r/Denmark/comments/7mf11x/how_old_are_national_flags/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "121": {
+        "ID": "dlhvzn",
+        "date": "10-22-2019",
+        "permalink": "/r/Denmark/comments/dlhvzn/jeg_tog_ud_og_s\u00e5_fyret_blive_flyttet_s\u00e5_i_slap/",
+        "Layer1": "O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "122": {
+        "ID": "7bsct7",
+        "date": "11-09-2017",
+        "permalink": "/r/Denmark/comments/7bsct7/korrupt_politiker_hvorfor_er_dette_billede_ikke/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "123": {
+        "ID": "a6np3w",
+        "date": "12-16-2018",
+        "permalink": "/r/Denmark/comments/a6np3w/k\u00f8benhavn/",
+        "Layer1": "B-LOC O O O",
+        "Layer2": "O O O O"
+    },
+    "124": {
+        "ID": "79uk2l",
+        "date": "10-31-2017",
+        "permalink": "/r/Denmark/comments/79uk2l/mor_jeg_er_syg_i_dag_starterpack/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "125": {
+        "ID": "959klm",
+        "date": "08-07-2018",
+        "permalink": "/r/Denmark/comments/959klm/nordjyllands_politi_giver_ikke_en_fuck_for/",
+        "Layer1": "B-ORG I-ORG O O O O O B-MISC O",
+        "Layer2": "B-LOC O O O O O O O O"
+    },
+    "126": {
+        "ID": "dcafbn",
+        "date": "10-02-2019",
+        "permalink": "/r/Denmark/comments/dcafbn/ser/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "127": {
+        "ID": "dq8ys3",
+        "date": "11-02-2019",
+        "permalink": "/r/Denmark/comments/dq8ys3/nordjyllands_politi_p\u00e5_twitter_er_genialt/",
+        "Layer1": "B-ORG I-ORG O B-ORG O O O",
+        "Layer2": "B-LOC O O O O O O"
+    },
+    "128": {
+        "ID": "d7r1q0",
+        "date": "2019-09-23",
+        "permalink": "/r/Denmark/comments/d7r1q0/t%C3%B8rstig/f14aiop/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "129": {
+        "ID": "bg32zz",
+        "date": "04-23-2019",
+        "permalink": "/r/Denmark/comments/bg32zz/det_smager_ens/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "130": {
+        "ID": "8p2jjq",
+        "date": "06-07-2018",
+        "permalink": "/r/Denmark/comments/8p2jjq/min_bror_og_hans_gravide_kone_skulle_have_en/",
+        "Layer1": "O O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "131": {
+        "ID": "69q3io",
+        "date": "05-07-2017",
+        "permalink": "/r/Denmark/comments/69q3io/rnorge_er_lige_s\u00e5_stille_begyndt_at_bevege_seg/",
+        "Layer1": "B-MISC O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "132": {
+        "ID": "bqxusy",
+        "date": "05-21-2019",
+        "permalink": "/r/Denmark/comments/bqxusy/enhedslisten/",
+        "Layer1": "B-ORG O",
+        "Layer2": "O O"
+    },
+    "133": {
+        "ID": "8h7no9",
+        "date": "05-05-2018",
+        "permalink": "/r/Denmark/comments/8h7no9/k\u00f8rer_du_p\u00e5_en_racercykel_til_25000_kroner/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "134": {
+        "ID": "cqa9bv",
+        "date": "08-15-2019",
+        "permalink": "/r/Denmark/comments/cqa9bv/efter_min_tur_i_holland_kan_jeg_konstatere_dette/",
+        "Layer1": "O O O O B-LOC O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "135": {
+        "ID": "cyp8nh",
+        "date": "09-02-2019",
+        "permalink": "/r/Denmark/comments/cyp8nh/min_oplevelse_med_cyklister_i_k\u00f8benhavn/",
+        "Layer1": "O O O O O B-LOC O",
+        "Layer2": "O O O O O O O"
+    },
+    "136": {
+        "ID": "cfkup4",
+        "date": "07-20-2019",
+        "permalink": "/r/Denmark/comments/cfkup4/jeg_var_ellers_meget_t\u00f8rstig/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "137": {
+        "ID": "b4hvgf",
+        "date": "03-23-2019",
+        "permalink": "/r/Denmark/comments/b4hvgf/martin_ved_hvad_der_foreg\u00e5r/",
+        "Layer1": "B-PER O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "138": {
+        "ID": "brl41b",
+        "date": "05-22-2019",
+        "permalink": "/r/Denmark/comments/brl41b/ja_tak/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "139": {
+        "ID": "b2w3y1",
+        "date": "03-19-2019",
+        "permalink": "/r/Denmark/comments/b2w3y1/jeg_har_besluttet_mig_for_at_jeg_ikke_vil/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "140": {
+        "ID": "dwn7vn",
+        "date": "11-15-2019",
+        "permalink": "/r/Denmark/comments/dwn7vn/blev_inspireret_af_et_tidligere_post/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "141": {
+        "ID": "8dfc3p",
+        "date": "04-20-2018",
+        "permalink": "/r/Denmark/comments/8dfc3p/husker_du_mackelmore/",
+        "Layer1": "O O B-PER O O",
+        "Layer2": "O O O O O"
+    },
+    "142": {
+        "ID": "budz3q",
+        "date": "05-29-2019",
+        "permalink": "/r/Denmark/comments/budz3q/hverdagslars_og_valgkampslars/",
+        "Layer1": "B-PERpart O B-PERpart O",
+        "Layer2": "O O O O"
+    },
+    "143": {
+        "ID": "dtsecu",
+        "date": "11-09-2019",
+        "permalink": "/r/Denmark/comments/dtsecu/du_m\u00e5_gerne_tage_din_cykel_med_i_metro_men/",
+        "Layer1": "O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "144": {
+        "ID": "axwjyz",
+        "date": "03-06-2019",
+        "permalink": "/r/Denmark/comments/axwjyz/jeg_er_23_\u00e5r_og_min_mor_mfr_vaccinerede_mig_ikke/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "145": {
+        "ID": "czwo9z",
+        "date": "09-05-2019",
+        "permalink": "/r/Denmark/comments/czwo9z/hvad_er_danmark/",
+        "Layer1": "O O B-LOC O O",
+        "Layer2": "O O O O O"
+    },
+    "146": {
+        "ID": "9rmqiv",
+        "date": "10-27-2018",
+        "permalink": "/r/Denmark/comments/9rmqiv/den_\u00e6gte_konge_dansk_knopsvane/",
+        "Layer1": "O O O O B-LOCderiv O O",
+        "Layer2": "O O O O O O O"
+    },
+    "147": {
+        "ID": "8h69mo",
+        "date": "05-05-2018",
+        "permalink": "/r/Denmark/comments/8h69mo/det_er_befrielsesdag_mine_frihedsk\u00e6mpere/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "148": {
+        "ID": "a8jqvw",
+        "date": "12-22-2018",
+        "permalink": "/r/Denmark/comments/a8jqvw/n\u00e5r_du_ikke_ser_en_eneste_pyrusreference_hele/",
+        "Layer1": "O O O O O O B-PERpart O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "149": {
+        "ID": "5egr95",
+        "date": "11-23-2016",
+        "permalink": "/r/Denmark/comments/5egr95/heja/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "150": {
+        "ID": "bh61xm",
+        "date": "04-25-2019",
+        "permalink": "/r/Denmark/comments/bh61xm/laughs_in_imperialism/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "151": {
+        "ID": "d0fkyl",
+        "date": "09-06-2019",
+        "permalink": "/r/Denmark/comments/d0fkyl/jeg_elsker_danmark/",
+        "Layer1": "O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "152": {
+        "ID": "cy6ole",
+        "date": "09-01-2019",
+        "permalink": "/r/Denmark/comments/cy6ole/vild_storm_over_k\u00f8benhavn_i_g\u00e5r_nat/",
+        "Layer1": "O O O B-LOC O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "153": {
+        "ID": "9oeyol",
+        "date": "10-16-2018",
+        "permalink": "/r/Denmark/comments/9oeyol/monumentalt_fuckup_p\u00e5_tv_avisen/",
+        "Layer1": "O O O B-MISC I-MISC O",
+        "Layer2": "O O O O O O"
+    },
+    "154": {
+        "ID": "co3c3d",
+        "date": "08-10-2019",
+        "permalink": "/r/Denmark/comments/co3c3d/ligestillingen_mellem_k\u00f8nnene_er_kun_sjov_n\u00e5r_der/",
+        "Layer1": "O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "155": {
+        "ID": "7xf5m7",
+        "date": "02-14-2018",
+        "permalink": "/r/Denmark/comments/7xf5m7/prins_henrik_er_d\u00f8d/",
+        "Layer1": "O B-PER O O O",
+        "Layer2": "O O O O O"
+    },
+    "156": {
+        "ID": "cgh5v0",
+        "date": "07-23-2019",
+        "permalink": "/r/Denmark/comments/cgh5v0/danish_royal_guard_drinks_a_beer_with_a_group_of/",
+        "Layer1": "B-ORG I-ORG I-ORG O O O O O O O O O O O",
+        "Layer2": "B-LOCderiv O O O O O O O O O O O O O"
+    },
+    "157": {
+        "ID": "94z7v8",
+        "date": "08-06-2018",
+        "permalink": "/r/Denmark/comments/94z7v8/sommeren_2018/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "158": {
+        "ID": "bk5j2n",
+        "date": "05-03-2019",
+        "permalink": "/r/Denmark/comments/bk5j2n/danmark_du_er_smuk/",
+        "Layer1": "B-LOC O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "159": {
+        "ID": "bs4b2k",
+        "date": "05-24-2019",
+        "permalink": "/r/Denmark/comments/bs4b2k/jes_synes_de_valgplakater_er_begyndt_at_v\u00e6re_en/",
+        "Layer1": "B-PER O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "160": {
+        "ID": "4vg2m3",
+        "date": "07-31-2016",
+        "permalink": "/r/Denmark/comments/4vg2m3/vent_venligst/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "161": {
+        "ID": "9wp3vc",
+        "date": "11-13-2018",
+        "permalink": "/r/Denmark/comments/9wp3vc/hvorfor_er_s\u00e5_mange_emojis_n\u00e6sten_identiske/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "162": {
+        "ID": "dp48oz",
+        "date": "10-30-2019",
+        "permalink": "/r/Denmark/comments/dp48oz/regnbue_is_er_en_k\u00e6mpe_scam_oppe_fra_ligner_det/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O"
+    },
+    "163": {
+        "ID": "cx3g8l",
+        "date": "08-30-2019",
+        "permalink": "/r/Denmark/comments/cx3g8l/til_folk_der_ikke_helt_forst\u00e5r_hvorfor_venstres/",
+        "Layer1": "O O O O O O O O O B-ORG O O O O O O O O O O O B-PER O O O O O O O O B-MISC I-MISC O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "164": {
+        "ID": "ahaf5d",
+        "date": "01-18-2019",
+        "permalink": "/r/Denmark/comments/ahaf5d/flytte_hjemmefrastarterpack/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "165": {
+        "ID": "cpt44p",
+        "date": "08-13-2019",
+        "permalink": "/r/Denmark/comments/cpt44p/blandet_budskab_i_danske_bank/",
+        "Layer1": "O O O B-ORG I-ORG O",
+        "Layer2": "O O O B-LOCderiv O O"
+    },
+    "166": {
+        "ID": "cxchww",
+        "date": "08-30-2019",
+        "permalink": "/r/Denmark/comments/cxchww/havet_solnedgang_dannebrog/",
+        "Layer1": "O O O O B-MISC O",
+        "Layer2": "O O O O O O"
+    },
+    "167": {
+        "ID": "aj9o3x",
+        "date": "01-24-2019",
+        "permalink": "/r/Denmark/comments/aj9o3x/integrationen_er_sl\u00e5et_fejl_s\u00e5_lad_os_droppe_at/",
+        "Layer1": "O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "168": {
+        "ID": "b47q3v",
+        "date": "03-23-2019",
+        "permalink": "/r/Denmark/comments/b47q3v/skulle_v\u00e6re_kl\u00e6dt_ud_som_kriminel/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "169": {
+        "ID": "bdqkus",
+        "date": "04-16-2019",
+        "permalink": "/r/Denmark/comments/bdqkus/av/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "170": {
+        "ID": "akxdzj",
+        "date": "01-29-2019",
+        "permalink": "/r/Denmark/comments/akxdzj/_/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "171": {
+        "ID": "bgg2xk",
+        "date": "04-23-2019",
+        "permalink": "/r/Denmark/comments/bgg2xk/lidt_esports_humor_til_tirsdagen_wulffmorgenthaler/",
+        "Layer1": "O O O O O O B-MISC O",
+        "Layer2": "O O O O O O O O"
+    },
+    "172": {
+        "ID": "a174ld",
+        "date": "11-29-2018",
+        "permalink": "/r/Denmark/comments/a174ld/rema_1000hop_op_i_vognen_s\u00e5_ved_du_hvorfor/",
+        "Layer1": "B-ORG I-ORG O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "173": {
+        "ID": "88acq6",
+        "date": "03-30-2018",
+        "permalink": "/r/Denmark/comments/88acq6/for_hver_dag_der_g\u00e5r_ligner_l\u00f8kke_mere_og_mere_en/",
+        "Layer1": "O O O O O O O B-PER O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "174": {
+        "ID": "an0at5",
+        "date": "02-04-2019",
+        "permalink": "/r/Denmark/comments/an0at5/g\u00e5_hjem_og_give_jeres_mor_et_kys_og_en_krammer/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O"
+    },
+    "175": {
+        "ID": "5e3wt5",
+        "date": "11-21-2016",
+        "permalink": "/r/Denmark/comments/5e3wt5/lortpost/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "176": {
+        "ID": "b7ywfy",
+        "date": "04-01-2019",
+        "permalink": "/r/Denmark/comments/b7ywfy/dr_ramasjang_liveaction_bamse/",
+        "Layer1": "B-ORG I-ORG O O B-PER O O",
+        "Layer2": "O O O O O O O"
+    },
+    "177": {
+        "ID": "c40fni",
+        "date": "06-23-2019",
+        "permalink": "/r/Denmark/comments/c40fni/det_er_sankthansaften_mine_heksehyl/",
+        "Layer1": "O O B-MISC O O O O O",
+        "Layer2": "O O B-PERpart O O O O O"
+    },
+    "178": {
+        "ID": "bzsac4",
+        "date": "06-13-2019",
+        "permalink": "/r/Denmark/comments/bzsac4/det_sagde_man_sgu_ogs\u00e5_om_din_dejlige_mor/",
+        "Layer1": "O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "179": {
+        "ID": "cvrja5",
+        "date": "08-27-2019",
+        "permalink": "/r/Denmark/comments/cvrja5/jeg_har_en_guldperle_p\u00e5_min_fb_dette_skete/",
+        "Layer1": "O O O O O O B-ORG O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O"
+    },
+    "180": {
+        "ID": "6f80yo",
+        "date": "06-05-2017",
+        "permalink": "/r/Denmark/comments/6f80yo/en_dag_i_den_danske_folkeskole/",
+        "Layer1": "O O O O B-LOCderiv O O",
+        "Layer2": "O O O O O O O"
+    },
+    "181": {
+        "ID": "bl29ht",
+        "date": "05-06-2019",
+        "permalink": "/r/Denmark/comments/bl29ht/tinder_101/",
+        "Layer1": "B-ORG O O",
+        "Layer2": "O O O"
+    },
+    "182": {
+        "ID": "bar41e",
+        "date": "04-08-2019",
+        "permalink": "/r/Denmark/comments/bar41e/lars_l\u00f8kke_og_pandaerne/",
+        "Layer1": "B-PER I-PER O O O",
+        "Layer2": "O O O O O"
+    },
+    "183": {
+        "ID": "asbrpc",
+        "date": "02-20-2019",
+        "permalink": "/r/Denmark/comments/asbrpc/46_days_6_hours_danmark_p\u00e5_rall/",
+        "Layer1": "O O O O O O B-LOC O B-MISC O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "184": {
+        "ID": "a7pngb",
+        "date": "12-20-2018",
+        "permalink": "/r/Denmark/comments/a7pngb/kildekritik/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "185": {
+        "ID": "2vyjwo",
+        "date": "02-15-2015",
+        "permalink": "/r/Denmark/comments/2vyjwo/den_mest_danske_reaktion_p\u00e5_at_v\u00e6re_blevet_fanget/",
+        "Layer1": "O O B-LOCderiv O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "186": {
+        "ID": "70ma88",
+        "date": "09-17-2017",
+        "permalink": "/r/Denmark/comments/70ma88/flot_fyr/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "187": {
+        "ID": "b8ypu9",
+        "date": "04-04-2019",
+        "permalink": "/r/Denmark/comments/b8ypu9/forhelvede_tv2_stop_med_at_ligestille_de_to_sider/",
+        "Layer1": "O B-ORG O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "188": {
+        "ID": "b0xntn",
+        "date": "03-14-2019",
+        "permalink": "/r/Denmark/comments/b0xntn/i_japan_er_deres_kager_i_en_udviklingsfase_et_par/",
+        "Layer1": "O B-LOC O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "189": {
+        "ID": "8cun9l",
+        "date": "04-17-2018",
+        "permalink": "/r/Denmark/comments/8cun9l/god_morgen_danmark/",
+        "Layer1": "O O B-LOC O",
+        "Layer2": "O O O O"
+    },
+    "190": {
+        "ID": "cu9wxw",
+        "date": "08-23-2019",
+        "permalink": "/r/Denmark/comments/cu9wxw/ubrugt_statsbes\u00f8g_til_salg_p\u00e5_dba/",
+        "Layer1": "O O O O O B-ORG O",
+        "Layer2": "O O O O O O O"
+    },
+    "191": {
+        "ID": "cqo01e",
+        "date": "08-15-2019",
+        "permalink": "/r/Denmark/comments/cqo01e/firmaer_og_virksomhed_hvert_\u00e5r_ved_pride/",
+        "Layer1": "O O O O O O B-MISC O",
+        "Layer2": "O O O O O O B-ORG O"
+    },
+    "192": {
+        "ID": "7et25q",
+        "date": "11-23-2017",
+        "permalink": "/r/Denmark/comments/7et25q/at_v\u00e6re_dansker_p\u00e5_reddit_lige_nu/",
+        "Layer1": "O O B-LOCderiv O B-ORG O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "193": {
+        "ID": "98e26a",
+        "date": "08-19-2018",
+        "permalink": "/r/Denmark/comments/98e26a/brun_zeus_og_kartovler/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "194": {
+        "ID": "bwzokp",
+        "date": "06-05-2019",
+        "permalink": "/r/Denmark/comments/bwzokp/det_er_grundlovsdag_mine_kanelsnegle/",
+        "Layer1": "O O B-MISC O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "195": {
+        "ID": "77kn9p",
+        "date": "10-20-2017",
+        "permalink": "/r/Denmark/comments/77kn9p/du_g\u00e5r_en_lang_tur_men_standser_og_t\u00f8ver/",
+        "Layer1": "O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "196": {
+        "ID": "bvzw0q",
+        "date": "06-03-2019",
+        "permalink": "/r/Denmark/comments/bvzw0q/jeg_har_lavet_en_valgvideo_sammen_med_to_venner/",
+        "Layer1": "O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "197": {
+        "ID": "c447jg",
+        "date": "06-23-2019",
+        "permalink": "/r/Denmark/comments/c447jg/held_og_lykke_derude/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "198": {
+        "ID": "9unxrg",
+        "date": "11-06-2018",
+        "permalink": "/r/Denmark/comments/9unxrg/se_de_vilde_billeder/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "199": {
+        "ID": "8p50m0",
+        "date": "06-07-2018",
+        "permalink": "/r/Denmark/comments/8p50m0/to_the_scottish_guy_that_said_that_danish_is/",
+        "Layer1": "O O B-LOCderiv O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O O B-LOCderiv O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOCderiv O O O O O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O O O O O B-LOCderiv O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "200": {
+        "ID": "e13cuz",
+        "date": "11-25-2019",
+        "permalink": "/r/Denmark/comments/e13cuz/alt_er_under_kontrol/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "201": {
+        "ID": "cxkzu8",
+        "date": "08-31-2019",
+        "permalink": "/r/Denmark/comments/cxkzu8/sjov_i_f\u00f8tex/",
+        "Layer1": "O O B-ORG O",
+        "Layer2": "O O O O"
+    },
+    "202": {
+        "ID": "6qd0pr",
+        "date": "07-30-2017",
+        "permalink": "/r/Denmark/comments/6qd0pr/mig_ivirkeligheden/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "203": {
+        "ID": "dyiyem",
+        "date": "11-19-2019",
+        "permalink": "/r/Denmark/comments/dyiyem/planten_i_tagrenden_p\u00e5_valby_station_er_stadig_i/",
+        "Layer1": "O O O O B-LOC I-LOC O O O O O O O O O O O O O O",
+        "Layer2": "O O O O B-LOC O O O O O O O O O O O O O O O"
+    },
+    "204": {
+        "ID": "ancb27",
+        "date": "02-05-2019",
+        "permalink": "/r/Denmark/comments/ancb27/spilmester_martin_er_nok_ikke_den_mest_ansvarlige/",
+        "Layer1": "O B-PER O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "205": {
+        "ID": "d6alua",
+        "date": "09-19-2019",
+        "permalink": "/r/Denmark/comments/d6alua/nordjyllands_politi_ved_hvordan_de_f\u00e5r_din/",
+        "Layer1": "B-ORG I-ORG O O O O O O O",
+        "Layer2": "B-LOC O O O O O O O O"
+    },
+    "206": {
+        "ID": "9n0mm0",
+        "date": "10-11-2018",
+        "permalink": "/r/Denmark/comments/9n0mm0/original_banksy_inden_makulering/",
+        "Layer1": "O B-PER O O O",
+        "Layer2": "O O O O O"
+    },
+    "207": {
+        "ID": "cwi4su",
+        "date": "08-28-2019",
+        "permalink": "/r/Denmark/comments/cwi4su/this_is_fine/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "208": {
+        "ID": "dh9l6y",
+        "date": "10-13-2019",
+        "permalink": "/r/Denmark/comments/dh9l6y/halloween_lyder_sp\u00e6ndende_i_norge/",
+        "Layer1": "O O O O B-LOC O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "209": {
+        "ID": "5imrs9",
+        "date": "12-16-2016",
+        "permalink": "/r/Denmark/comments/5imrs9/dsb/",
+        "Layer1": "B-ORG O",
+        "Layer2": "O O"
+    },
+    "210": {
+        "ID": "cldnuu",
+        "date": "08-03-2019",
+        "permalink": "/r/Denmark/comments/cldnuu/dette_v\u00e6lter_min_skorsten_n\u00e5r_man_tager_op/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "211": {
+        "ID": "bqqz9e",
+        "date": "05-20-2019",
+        "permalink": "/r/Denmark/comments/bqqz9e/held_og_lykke_til_alle_eksaminander_de_kommende/",
+        "Layer1": "O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "212": {
+        "ID": "bmgblh",
+        "date": "05-09-2019",
+        "permalink": "/r/Denmark/comments/bmgblh/islamkritikere/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "213": {
+        "ID": "99bzyi",
+        "date": "2018-08-22",
+        "permalink": "/r/Denmark/comments/99bzyi/julian_syntes_at_anjas_sofa_er_klam/",
+        "Layer1": "B-PER O O B-PER O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "214": {
+        "ID": "e1fer1",
+        "date": "11-25-2019",
+        "permalink": "/r/Denmark/comments/e1fer1/ikea_opfordrer_forbrugere_til_at_sk\u00e5ne_milj\u00f8et/",
+        "Layer1": "B-ORG O O O O O O O O O O O O B-MISC I-MISC O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O"
+    },
+    "215": {
+        "ID": "cu2ute",
+        "date": "08-23-2019",
+        "permalink": "/r/Denmark/comments/cu2ute/take_that/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "216": {
+        "ID": "d0d4hy",
+        "date": "09-06-2019",
+        "permalink": "/r/Denmark/comments/d0d4hy/fra_rmemes/",
+        "Layer1": "O B-MISC O",
+        "Layer2": "O O O"
+    },
+    "217": {
+        "ID": "bv4mua",
+        "date": "05-31-2019",
+        "permalink": "/r/Denmark/comments/bv4mua/hver_morgen/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "218": {
+        "ID": "b7dh5q",
+        "date": "03-31-2019",
+        "permalink": "/r/Denmark/comments/b7dh5q/nogle_andre_der_har_l\u00e6st_disse_fantastiske_b\u00f8ger/",
+        "Layer1": "O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O"
+    },
+    "219": {
+        "ID": "angagn",
+        "date": "02-06-2019",
+        "permalink": "/r/Denmark/comments/angagn/hvordan_man_kalder_hells_angels_for_busser_og/",
+        "Layer1": "O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O B-ORGderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "220": {
+        "ID": "c1kmsh",
+        "date": "06-17-2019",
+        "permalink": "/r/Denmark/comments/c1kmsh/olsenbanden_vs_kongehuset/",
+        "Layer1": "B-MISC O O O",
+        "Layer2": "O O O O"
+    },
+    "221": {
+        "ID": "c2eab5",
+        "date": "06-19-2019",
+        "permalink": "/r/Denmark/comments/c2eab5/is\u00e6r_jodelbrugere_er_slemme/",
+        "Layer1": "O B-ORGpart O O O",
+        "Layer2": "O O O O O"
+    },
+    "222": {
+        "ID": "9rdogd",
+        "date": "10-26-2018",
+        "permalink": "/r/Denmark/comments/9rdogd/det_eneste_rigtige_gangster_spil/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "223": {
+        "ID": "be5ngy",
+        "date": "04-17-2019",
+        "permalink": "/r/Denmark/comments/be5ngy/h\u00f8jeste_mode_p\u00e5_n\u00f8rrebro/",
+        "Layer1": "O O O B-LOC O",
+        "Layer2": "O O O O O"
+    },
+    "224": {
+        "ID": "8t1qcq",
+        "date": "06-23-2018",
+        "permalink": "/r/Denmark/comments/8t1qcq/i_skal_passe_p\u00e5_her_til_sommer/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "225": {
+        "ID": "dwf3ft",
+        "date": "11-15-2019",
+        "permalink": "/r/Denmark/comments/dwf3ft/danish_politician_showed_up_in_parlament_with_a/",
+        "Layer1": "B-LOCderiv O O O O O O O B-LOCpart O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "226": {
+        "ID": "aquhw7",
+        "date": "02-15-2019",
+        "permalink": "/r/Denmark/comments/aquhw7/frank_er_klog/",
+        "Layer1": "B-PER O O O",
+        "Layer2": "O O O O"
+    },
+    "227": {
+        "ID": "c7qlk4",
+        "date": "07-01-2019",
+        "permalink": "/r/Denmark/comments/c7qlk4/rasmus_jarlovs_lange_liste_over_regeringens/",
+        "Layer1": "B-PER I-PER O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "228": {
+        "ID": "dhq58y",
+        "date": "10-14-2019",
+        "permalink": "/r/Denmark/comments/dhq58y/pr\u00e6cisering_mand_og_svane_er_ikke_bedste_venner/",
+        "Layer1": "O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "229": {
+        "ID": "cnl6yx",
+        "date": "08-08-2019",
+        "permalink": "/r/Denmark/comments/cnl6yx/bare_hestenet_det/",
+        "Layer1": "O B-ORGderiv O O",
+        "Layer2": "O O O O"
+    },
+    "230": {
+        "ID": "7a5s0h",
+        "date": "11-02-2017",
+        "permalink": "/r/Denmark/comments/7a5s0h/kamikaze/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "231": {
+        "ID": "c1z5p6",
+        "date": "06-18-2019",
+        "permalink": "/r/Denmark/comments/c1z5p6/god_formiddag_mine_koldsk\u00e5lelskere/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "232": {
+        "ID": "8ze4g5",
+        "date": "07-17-2018",
+        "permalink": "/r/Denmark/comments/8ze4g5/skammemaskinen/",
+        "Layer1": "O O",
+        "Layer2": "O O"
+    },
+    "233": {
+        "ID": "7cuarv",
+        "date": "11-14-2017",
+        "permalink": "/r/Denmark/comments/7cuarv/se_hvad_jeg_fandt_i_dublin_carlsberg_er/",
+        "Layer1": "O O O O O B-LOC O B-ORG O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "234": {
+        "ID": "af13yv",
+        "date": "01-12-2019",
+        "permalink": "/r/Denmark/comments/af13yv/g\u00f8r_jeg_det_rigtigt/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "235": {
+        "ID": "8vm2zo",
+        "date": "07-03-2018",
+        "permalink": "/r/Denmark/comments/8vm2zo/og_han_g\u00f8r_det_flot/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "236": {
+        "ID": "cmmfg9",
+        "date": "08-06-2019",
+        "permalink": "/r/Denmark/comments/cmmfg9/no_it_does_not_have_anything_to_do_with/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O"
+    },
+    "237": {
+        "ID": "a4k5uk",
+        "date": "12-09-2018",
+        "permalink": "/r/Denmark/comments/a4k5uk/n\u00e5r_nogen_sp\u00f8rger_mig_hvad_jeg_egentlig_synes_om/",
+        "Layer1": "O O O O O O O O O B-LOC O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "238": {
+        "ID": "avstu3",
+        "date": "03-01-2019",
+        "permalink": "/r/Denmark/comments/avstu3/det_var_gode_tider/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "239": {
+        "ID": "ba6o1l",
+        "date": "04-07-2019",
+        "permalink": "/r/Denmark/comments/ba6o1l/jeg_er_d\u00e5rlig_til_titler/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "240": {
+        "ID": "8rjt6u",
+        "date": "06-17-2018",
+        "permalink": "/r/Denmark/comments/8rjt6u/bring_it_on_vikings/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "241": {
+        "ID": "bncdvf",
+        "date": "05-12-2019",
+        "permalink": "/r/Denmark/comments/bncdvf/thank_you_so_much_uflexo82_for_the_kammerjunkere/",
+        "Layer1": "O O O O B-PER O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "242": {
+        "ID": "ansg5b",
+        "date": "02-07-2019",
+        "permalink": "/r/Denmark/comments/ansg5b/min_reaktion_n\u00e5r_jeg_finder_ud_af_at_jeg_lige_er/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O B-ORGpart O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "243": {
+        "ID": "d8nx32",
+        "date": "09-25-2019",
+        "permalink": "/r/Denmark/comments/d8nx32/hvordan_der_kan_v\u00e6re_15000_mennesker_til_koncert/",
+        "Layer1": "O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O"
+    },
+    "244": {
+        "ID": "76cv8l",
+        "date": "10-15-2017",
+        "permalink": "/r/Denmark/comments/76cv8l/spottet_i_rbestof/",
+        "Layer1": "O O B-MISC O",
+        "Layer2": "O O O O"
+    },
+    "245": {
+        "ID": "74e11c",
+        "date": "10-05-2017",
+        "permalink": "/r/Denmark/comments/74e11c/jeg_kombinerede_ansigterne_af_de_500_mest/",
+        "Layer1": "O O O O O O O O O O B-LOC O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "246": {
+        "ID": "ck5khp",
+        "date": "07-31-2019",
+        "permalink": "/r/Denmark/comments/ck5khp/ebola_er_kommet_til_vejle_o/",
+        "Layer1": "O O O O O B-LOC O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "247": {
+        "ID": "dovuqg",
+        "date": "10-30-2019",
+        "permalink": "/r/Denmark/comments/dovuqg/he_does_look_cute/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "248": {
+        "ID": "bivlhp",
+        "date": "04-30-2019",
+        "permalink": "/r/Denmark/comments/bivlhp/dansk_kulturimperialisme_vinder_frem_her_en_lille/",
+        "Layer1": "B-LOCderiv O O O O O O O O O O O O B-LOC O O O O B-LOC I-LOC I-LOC O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "249": {
+        "ID": "d45hf7",
+        "date": "09-14-2019",
+        "permalink": "/r/Denmark/comments/d45hf7/dansk_multitrack_drifting_mene/",
+        "Layer1": "B-LOCderiv O O O O",
+        "Layer2": "O O O O O"
+    },
+    "250": {
+        "ID": "c3pf0n",
+        "date": "06-22-2019",
+        "permalink": "/r/Denmark/comments/c3pf0n/copenhell_starter_pack/",
+        "Layer1": "B-MISC O O O",
+        "Layer2": "B-ORG O O O"
+    },
+    "251": {
+        "ID": "b1rc0r",
+        "date": "03-16-2019",
+        "permalink": "/r/Denmark/comments/b1rc0r/de_forst\u00e5r_os_s\u00e5_godt/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "252": {
+        "ID": "9vjgm2",
+        "date": "11-09-2018",
+        "permalink": "/r/Denmark/comments/9vjgm2/den_fejlede_plan/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "253": {
+        "ID": "7zf1r3",
+        "date": "02-22-2018",
+        "permalink": "/r/Denmark/comments/7zf1r3/det_er_okay_man_er_udl\u00e6ndingekritisk_men_lad/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O B-ORG O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "254": {
+        "ID": "afy80v",
+        "date": "01-15-2019",
+        "permalink": "/r/Denmark/comments/afy80v/sp\u00e6ndende_forslag_til_hvordan_den_svenske/",
+        "Layer1": "O O O O O B-LOCderiv O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O"
+    },
+    "255": {
+        "ID": "8bxldz",
+        "date": "04-13-2018",
+        "permalink": "/r/Denmark/comments/8bxldz/jakob_vil_meget_gerne_have_formel_1_til_danmark/",
+        "Layer1": "B-PER O O O O O O O B-LOC O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "256": {
+        "ID": "dgagdo",
+        "date": "10-11-2019",
+        "permalink": "/r/Denmark/comments/dgagdo/jeg_spurgte_min_kinesiske_ven_hvordan_det_er_at/",
+        "Layer1": "O O O B-LOCderiv O O O O O O O O B-LOC O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "257": {
+        "ID": "a3xfn8",
+        "date": "12-07-2018",
+        "permalink": "/r/Denmark/comments/a3xfn8/anders_samuelsen_afg\u00e5r_som_minister_og_bliver/",
+        "Layer1": "B-PER I-PER O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "258": {
+        "ID": "d0uvw7",
+        "date": "09-07-2019",
+        "permalink": "/r/Denmark/comments/d0uvw7/kan_i_huske_jojos/",
+        "Layer1": "O O O B-MISC O O",
+        "Layer2": "O O O O O O"
+    },
+    "259": {
+        "ID": "b6z8zf",
+        "date": "03-30-2019",
+        "permalink": "/r/Denmark/comments/b6z8zf/a_view_of_copenhagen_from_a_roof_i_was_working_on/",
+        "Layer1": "O O O B-LOC O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "260": {
+        "ID": "72av25",
+        "date": "09-25-2017",
+        "permalink": "/r/Denmark/comments/72av25/n\u00e5r_man_endelig_f\u00e5r_overhalet_den_skide_knallert/",
+        "Layer1": "O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "261": {
+        "ID": "cn2rxd",
+        "date": "08-07-2019",
+        "permalink": "/r/Denmark/comments/cn2rxd/fundet_i_en_matematikmeme_gruppe/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "262": {
+        "ID": "c4nqyw",
+        "date": "06-24-2019",
+        "permalink": "/r/Denmark/comments/c4nqyw/mit_\u00e5rshjul_som_pollenallergiker/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "263": {
+        "ID": "d8idep",
+        "date": "09-24-2019",
+        "permalink": "/r/Denmark/comments/d8idep/nationen_om_greta_thunberg/",
+        "Layer1": "B-ORG O B-PER I-PER O",
+        "Layer2": "O O O O O"
+    },
+    "264": {
+        "ID": "8lkash",
+        "date": "05-24-2018",
+        "permalink": "/r/Denmark/comments/8lkash/to_sekunders_vild_panik_indtil_jeg_huskede_at_der/",
+        "Layer1": "O O O O O O O O O O B-MISC I-MISC O",
+        "Layer2": "O O O O O O O O O O B-ORG I-ORG O"
+    },
+    "265": {
+        "ID": "e3k4f1",
+        "date": "2019-11-29",
+        "permalink": "/r/Denmark/comments/e3k4f1/hmmm/",
+        "Layer1": "O O O",
+        "Layer2": "O O O"
+    },
+    "266": {
+        "ID": "9246b7",
+        "date": "07-27-2018",
+        "permalink": "/r/Denmark/comments/9246b7/himmelbjerget_sensommeren_2018/",
+        "Layer1": "B-LOC O O O O",
+        "Layer2": "O O O O O"
+    },
+    "267": {
+        "ID": "cy92lo",
+        "date": "09-01-2019",
+        "permalink": "/r/Denmark/comments/cy92lo/jeg_brugte_min_weekend_p\u00e5_at_lave_k\u00f8benhavn_i/",
+        "Layer1": "O O O O O O O B-LOC O B-MISC I-MISC I-MISC O O O O O B-LOC I-LOC O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O"
+    },
+    "268": {
+        "ID": "bt4pa1",
+        "date": "05-26-2019",
+        "permalink": "/r/Denmark/comments/bt4pa1/jaime_lannister_p\u00e5_tronen_i_nord/",
+        "Layer1": "B-PER I-PER O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "269": {
+        "ID": "cuf82n",
+        "date": "08-24-2019",
+        "permalink": "/r/Denmark/comments/cuf82n/du_g\u00e6tter_aldrig/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "270": {
+        "ID": "c0453r",
+        "date": "06-13-2019",
+        "permalink": "/r/Denmark/comments/c0453r/hvorfor_skal_tv2_altid_pr\u00f8ve_at_overg\u00e5_dr/",
+        "Layer1": "O O B-ORG O O O O B-ORG O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "271": {
+        "ID": "dbqwi1",
+        "date": "10-01-2019",
+        "permalink": "/r/Denmark/comments/dbqwi1/for_30_\u00e5r_siden/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "272": {
+        "ID": "d6s46t",
+        "date": "09-20-2019",
+        "permalink": "/r/Denmark/comments/d6s46t/hver_eneste_weekend/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "273": {
+        "ID": "dc7ejz",
+        "date": "10-02-2019",
+        "permalink": "/r/Denmark/comments/dc7ejz/hidden_gem_in_the_mini_train_station_on/",
+        "Layer1": "O O O O O O O O B-LOC I-LOC I-LOC O",
+        "Layer2": "O O O O O O O O B-LOC O O O"
+    },
+    "274": {
+        "ID": "7tc7n6",
+        "date": "01-27-2018",
+        "permalink": "/r/Denmark/comments/7tc7n6/wozniacki_vinder_australian_open/",
+        "Layer1": "B-PER O B-MISC I-MISC O O",
+        "Layer2": "O O B-LOCderiv O O O"
+    },
+    "275": {
+        "ID": "cydxux",
+        "date": "09-02-2019",
+        "permalink": "/r/Denmark/comments/cydxux/n\u00e5r_man_rammer_jackpotten_af_astronaut_is/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "276": {
+        "ID": "dw897s",
+        "date": "11-14-2019",
+        "permalink": "/r/Denmark/comments/dw897s/lad_mig_taste_f_p\u00e5_verdens_mindste_tastatur/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "277": {
+        "ID": "bu2c69",
+        "date": "05-29-2019",
+        "permalink": "/r/Denmark/comments/bu2c69/for_helvede_mikael/",
+        "Layer1": "O O B-PER O",
+        "Layer2": "O O O O"
+    },
+    "278": {
+        "ID": "dcsydm",
+        "date": "10-04-2019",
+        "permalink": "/r/Denmark/comments/dcsydm/online_casino_begyndelsespakke/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "279": {
+        "ID": "cnad47",
+        "date": "08-08-2019",
+        "permalink": "/r/Denmark/comments/cnad47/brian_er_utilfreds_med_dr/",
+        "Layer1": "B-PER O O O B-ORG O",
+        "Layer2": "O O O O O O"
+    },
+    "280": {
+        "ID": "dn2nf2",
+        "date": "10-26-2019",
+        "permalink": "/r/Denmark/comments/dn2nf2/jamen_s\u00e5_venter_jeg_bare/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "281": {
+        "ID": "58g5sx",
+        "date": "10-20-2016",
+        "permalink": "/r/Denmark/comments/58g5sx/jeg_var_en_cigaret_til_fastelavn_i_2004/",
+        "Layer1": "O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "282": {
+        "ID": "by5vro",
+        "date": "2019-06-08",
+        "permalink": "/r/Denmark/comments/by5vro/jag_vill_delge_er_denna_vackra_bilden_i_%C3%A4ra_av/eqe1flg/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "283": {
+        "ID": "7tk1v7",
+        "date": "01-28-2018",
+        "permalink": "/r/Denmark/comments/7tk1v7/flere_af_de_her_l\u00e6ger/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "284": {
+        "ID": "avd12h",
+        "date": "02-27-2019",
+        "permalink": "/r/Denmark/comments/avd12h/vikings_good_793ad/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "285": {
+        "ID": "e0pdhp",
+        "date": "11-24-2019",
+        "permalink": "/r/Denmark/comments/e0pdhp/roser_er_r\u00f8de_mursten_er_tunge/",
+        "Layer1": "O O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "286": {
+        "ID": "c0it9b",
+        "date": "06-14-2019",
+        "permalink": "/r/Denmark/comments/c0it9b/nordsj\u00e6llands_politi_guider_dig_igennem_div/",
+        "Layer1": "B-ORG I-ORG O O O O O O O O O",
+        "Layer2": "B-LOC O O O O O O O O O O"
+    },
+    "287": {
+        "ID": "dsu6io",
+        "date": "11-07-2019",
+        "permalink": "/r/Denmark/comments/dsu6io/ugeneret_penthouse_lejlighed_centralt_beliggende/",
+        "Layer1": "O O O O O O O",
+        "Layer2": "O O O O O O O"
+    },
+    "288": {
+        "ID": "abstu8",
+        "date": "01-02-2019",
+        "permalink": "/r/Denmark/comments/abstu8/dsb_flager_p\u00e5_halvt/",
+        "Layer1": "B-ORG O O O O",
+        "Layer2": "O O O O O"
+    },
+    "289": {
+        "ID": "e0ycqt",
+        "date": "11-24-2019",
+        "permalink": "/r/Denmark/comments/e0ycqt/endnu_en_censurering_fra_f\u00f8tex_romkugler_kaldes/",
+        "Layer1": "O O O O B-ORG O O O O O O O O O O B-LOCderiv O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O"
+    },
+    "290": {
+        "ID": "cl13l5",
+        "date": "08-02-2019",
+        "permalink": "/r/Denmark/comments/cl13l5/jeg_tror_ikke_at_brings_chatbot_overtager_verden/",
+        "Layer1": "O O O O B-ORG O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "291": {
+        "ID": "bbx6m0",
+        "date": "04-11-2019",
+        "permalink": "/r/Denmark/comments/bbx6m0/en_interessant_tanke/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "292": {
+        "ID": "c1ng47",
+        "date": "06-17-2019",
+        "permalink": "/r/Denmark/comments/c1ng47/heldigvis_kom_der_en_postmand_forbi_han_var_j\u00e6ger/",
+        "Layer1": "O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "293": {
+        "ID": "arl6t7",
+        "date": "02-17-2019",
+        "permalink": "/r/Denmark/comments/arl6t7/gymnasiereformen_med_fokus_p\u00e5_tv\u00e6rfaglighed_er/",
+        "Layer1": "O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "294": {
+        "ID": "dftddt",
+        "date": "10-10-2019",
+        "permalink": "/r/Denmark/comments/dftddt/demonstration_for_hongkong_fredag_den_11_oktober/",
+        "Layer1": "O O B-LOC O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "295": {
+        "ID": "9jrk8o",
+        "date": "09-29-2018",
+        "permalink": "/r/Denmark/comments/9jrk8o/l\u00e6kket_billede_af_de_tre_kriminelle_fra_dagens/",
+        "Layer1": "O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "296": {
+        "ID": "beb13f",
+        "date": "04-18-2019",
+        "permalink": "/r/Denmark/comments/beb13f/80kr_i_rema_1000_mig_og_min_roomie_er_fans/",
+        "Layer1": "O O B-ORG I-ORG O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "297": {
+        "ID": "b3pbnj",
+        "date": "03-21-2019",
+        "permalink": "/r/Denmark/comments/b3pbnj/der_er_udskrevet_valg/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "298": {
+        "ID": "5yfkhi",
+        "date": "03-10-2017",
+        "permalink": "/r/Denmark/comments/5yfkhi/nice_picture_of_denmark_from_the_iss/",
+        "Layer1": "O O O B-LOC O O B-LOC O",
+        "Layer2": "O O O O O O O O"
+    },
+    "299": {
+        "ID": "c6nfyn",
+        "date": "06-29-2019",
+        "permalink": "/r/Denmark/comments/c6nfyn/26_grader_h\u00f8j_sol_og_3_r\u00f8de_vingummier_i/",
+        "Layer1": "O O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O"
+    },
+    "300": {
+        "ID": "8vztmu",
+        "date": "07-04-2018",
+        "permalink": "/r/Denmark/comments/8vztmu/trump_har_f\u00e5et_sin_mur/",
+        "Layer1": "B-PER O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "301": {
+        "ID": "cecnmb",
+        "date": "07-17-2019",
+        "permalink": "/r/Denmark/comments/cecnmb/yesterdays_lunar_eclipse_at_m\u00f8ns_klint/",
+        "Layer1": "O O O O O O B-LOC I-LOC O",
+        "Layer2": "O O O O O O B-LOC O O"
+    },
+    "302": {
+        "ID": "8eu7q5",
+        "date": "04-26-2018",
+        "permalink": "/r/Denmark/comments/8eu7q5/jeg_sags\u00f8ger_staten_for_at_standse_ulovlig/",
+        "Layer1": "O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCderiv O O O O O O O O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+    },
+    "303": {
+        "ID": "8czwlz",
+        "date": "04-18-2018",
+        "permalink": "/r/Denmark/comments/8czwlz/jeg_tror_min_sidemand_f\u00e5r_meget_ud_af_photoshop/",
+        "Layer1": "O O O O O O O O B-MISC O O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "304": {
+        "ID": "d4mrpz",
+        "date": "09-16-2019",
+        "permalink": "/r/Denmark/comments/d4mrpz/as_an_american_learning_danish_i_may_stop_using/",
+        "Layer1": "O O B-LOCderiv O B-LOCderiv O O O O O B-MISC I-MISC O O B-ORG O O",
+        "Layer2": "O O O O O O O O O O B-ORG O O O O O O"
+    },
+    "305": {
+        "ID": "3vnn3i",
+        "date": "12-06-2015",
+        "permalink": "/r/Denmark/comments/3vnn3i/pas_p\u00e5_trappen/",
+        "Layer1": "O O O O O",
+        "Layer2": "O O O O O"
+    },
+    "306": {
+        "ID": "d6rvi9",
+        "date": "09-20-2019",
+        "permalink": "/r/Denmark/comments/d6rvi9/det_synes_at_v\u00e6re_en_del_af_konceptet_eb/",
+        "Layer1": "O O O O O O O O O B-ORG O",
+        "Layer2": "O O O O O O O O O O O"
+    },
+    "307": {
+        "ID": "cs1wgh",
+        "date": "08-19-2019",
+        "permalink": "/r/Denmark/comments/cs1wgh/\u00e6nder_p\u00e5_rygestop/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "308": {
+        "ID": "dtcypn",
+        "date": "11-08-2019",
+        "permalink": "/r/Denmark/comments/dtcypn/sidste_m\u00e5neds_h\u00f8jdepunkter_iflg_google_maps/",
+        "Layer1": "O O O O O O B-MISC I-MISC O",
+        "Layer2": "O O O O O O B-ORG O O"
+    },
+    "309": {
+        "ID": "d9ixef",
+        "date": "09-26-2019",
+        "permalink": "/r/Denmark/comments/d9ixef/dansk_dyrepasser_afk\u00f8ler_kejserpingvinerne_i_zoo/",
+        "Layer1": "B-LOCderiv O O O O O O O",
+        "Layer2": "O O O O O O O O"
+    },
+    "310": {
+        "ID": "dhom6t",
+        "date": "10-14-2019",
+        "permalink": "/r/Denmark/comments/dhom6t/fysikopgaverne_p\u00e5_gymnasiet_er_begyndt_at_v\u00e6re/",
+        "Layer1": "O O O O O O O O O O O O",
+        "Layer2": "O O O O O O O O O O O O"
+    },
+    "311": {
+        "ID": "aixp8i",
+        "date": "01-23-2019",
+        "permalink": "/r/Denmark/comments/aixp8i/aller\u00f8d_gymnasium_diskriminerer_ikke_p\u00e5_k\u00f8n_eller/",
+        "Layer1": "B-ORG I-ORG O O O O O O O O O O",
+        "Layer2": "B-LOC O O O O O O O O O O O"
+    },
+    "312": {
+        "ID": "ag6tln",
+        "date": "01-15-2019",
+        "permalink": "/r/Denmark/comments/ag6tln/kalmarunionen_irl/",
+        "Layer1": "B-ORGpart O",
+        "Layer2": "O O"
+    },
+    "313": {
+        "ID": "99vted",
+        "date": "08-24-2018",
+        "permalink": "/r/Denmark/comments/99vted/og_det_var_danmark_og_det_var_danmark_ol\u00e9_ol\u00e9/",
+        "Layer1": "O O O B-LOC O O O O B-LOC O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O"
+    },
+    "314": {
+        "ID": "dqzcqa",
+        "date": "11-03-2019",
+        "permalink": "/r/Denmark/comments/dqzcqa/danskere_er_bare_de_bedste/",
+        "Layer1": "B-LOCderiv O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "315": {
+        "ID": "9izzuk",
+        "date": "09-26-2018",
+        "permalink": "/r/Denmark/comments/9izzuk/utvivlsomt_den_bedste/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "316": {
+        "ID": "dgk4ob",
+        "date": "10-12-2019",
+        "permalink": "/r/Denmark/comments/dgk4ob/en_lille_migmig_fra_rdankmemes/",
+        "Layer1": "O O O O B-MISC O",
+        "Layer2": "O O O O O O"
+    },
+    "317": {
+        "ID": "busdq6",
+        "date": "05-30-2019",
+        "permalink": "/r/Denmark/comments/busdq6/distortion_en_fest_for_alle_uanset_alder/",
+        "Layer1": "B-MISC O O O O O O O O",
+        "Layer2": "B-ORG O O O O O O O O"
+    },
+    "318": {
+        "ID": "7lgt51",
+        "date": "12-22-2017",
+        "permalink": "/r/Denmark/comments/7lgt51/den_perfekte_vin_til_juleaften/",
+        "Layer1": "O O O O O O",
+        "Layer2": "O O O O O O"
+    },
+    "319": {
+        "ID": "a1q48a",
+        "date": "11-30-2018",
+        "permalink": "/r/Denmark/comments/a1q48a/ah_yes_the_three_major_ethnic_groups/",
+        "Layer1": "O O O O O O O O O",
+        "Layer2": "O O O O O O O O O"
+    },
+    "320": {
+        "ID": "8eb232",
+        "date": "04-23-2018",
+        "permalink": "/r/Denmark/comments/8eb232/tomb_for_her_majesty_margrethe_ii_alexandrine/",
+        "Layer1": "O O O O B-PER I-PER I-PER I-PER I-PER I-PER O O B-LOC O O O O O O",
+        "Layer2": "O O O O O O O O O O O O O O O O O O O"
+    },
+    "321": {
+        "ID": "782g19",
+        "date": "10-23-2017",
+        "permalink": "/r/Denmark/comments/782g19/de_5_stadier/",
+        "Layer1": "O O O O",
+        "Layer2": "O O O O"
+    },
+    "322": {
+        "ID": "bpgzz2",
+        "date": "05-17-2019",
+        "permalink": "/r/Denmark/comments/bpgzz2/odense_g\u00e5gade_kl_2130/",
+        "Layer1": "B-LOC I-LOC O O O",
+        "Layer2": "B-LOC O O O O"
+    },
+    "323": {
+        "ID": "ajmw4v",
+        "date": "01-25-2019",
+        "permalink": "/r/Denmark/comments/ajmw4v/dagens_bt_forside_er_sku_fed/",
+        "Layer1": "O B-ORG I-ORG I-ORG I-ORG O O O O O",
+        "Layer2": "O O O O O O O O O O"
+    },
+    "324": {
+        "ID": "6h17lb",
+        "date": "06-14-2017",
+        "permalink": "/r/Denmark/comments/6h17lb/n\u00e5r_posten_skal_ud_i_vollsmose/",
+        "Layer1": "O O O O O B-LOC O",
+        "Layer2": "O O O O O O O"
+    },
+    "325": {
+        "ID": "9anyjh",
+        "date": "08-27-2018",
+        "permalink": "/r/Denmark/comments/9anyjh/epson_workforce_wf2750dwf/",
+        "Layer1": "B-MISC I-MISC I-MISC I-MISC I-MISC O",
+        "Layer2": "B-ORG O O O O O"
+    }
+}
