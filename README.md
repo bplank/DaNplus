@@ -16,8 +16,6 @@ Additionally, these scripts will download the following folders:
 
 If you use the code, data, guidelines from DaN+, please include the following two citations:
 
-
-## DaN+ data and experiments
 ```
 @inproceedings{plank-etal-2020-dan,
     title = "{D}a{N}+: {D}anish Nested Named Entities and Lexical Normalization",
@@ -34,10 +32,6 @@ If you use the code, data, guidelines from DaN+, please include the following tw
 }
 
 ```
-## MaChAmp
-
-https://machamp-nlp.github.io/
-
 ```
 @misc{goot2020massive,
     title={Massive Choice, Ample Tasks (MaChAmp): A Toolkit for Multi-task Learning in NLP},
