@@ -9,7 +9,7 @@ This repository contains the code to reproduce the results of Plank, Nørgaard J
 ## Nested Named Entity Recognition (NNER)
 
 DaN+ contains Nested Named Entities with a 2-level annotation for four major entity types (ORG, PER, LOC, MISC) and two subtypes (-part and -deriv). 
-An example from the training data is shown below.
+An example from the training data is shown below. For further detail, see the supplementary material in the paper.
 
 
 DaN+ contains data for cross-lingual cross-domain NNER evaluation. The Danish training material are NNER annotations on top of the [Danish DDT Universal Dependencies Treebank](https://universaldependencies.org/treebanks/da_ddt/index.html).
