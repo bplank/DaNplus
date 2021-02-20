@@ -6,6 +6,52 @@
 
 This repository contains the code to reproduce the results of Plank, Nørgaard Jensen, van der Goot, 2020 (COLING). [Nested NER and Lexical Normalization for Danish (DaN+)](https://www.aclweb.org/anthology/2020.coling-main.583/). 
 
+## Nested Named Entity Recognition (NNER)
+
+DaN+ contains Nested Named Entities with a 2-level annotation for four major entity types (ORG, PER, LOC, MISC) and two subtypes (-part and -deriv). 
+An example from the training data is shown below.
+
+
+DaN+ contains data for cross-lingual cross-domain NNER evaluation. The Danish training material are NNER annotations on top of the [Danish DDT Universal Dependencies Treebank](https://universaldependencies.org/treebanks/da_ddt/index.html).
+
+
+```
+Og	O	O
+jeg	O	O
+er	O	O
+bange	O	O
+for	O	O
+,	O	O
+at	O	O
+italienerne	B-LOCderiv	O
+fra	O	O
+Torino	B-LOC	O
+er	O	O
+de	O	O
+klogeste	O	O
+i	O	O
+det	O	O
+taktiske	O	O
+spil	O	O
+inden	O	O
+onsdagens	O	O
+kvartfinale	O	O
+i	O	O
+UEFA-turneringen	B-MISC	B-ORGpart
+på	O	O
+Gentoftes	B-LOC	O
+tætpakkede	O	O
+,	O	O
+men	O	O
+ikke	O	O
+særlig	O	O
+forbrugervenlige	O	O
+Stadion	O	O
+.	O	O
+```
+
+## Repository
+
 In this repository you'll find:
 
 * `configs`: configuration files for MaChAmp
@@ -20,7 +66,7 @@ Additionally, these scripts will download the following folders:
 
 # References
 
-If you use the code, data, guidelines from DaN+, please include the following two citations:
+If you use the code, data, guidelines from DaN+, please include the following references:
 
 ```
 @inproceedings{plank-etal-2020-dan,
@@ -47,6 +93,17 @@ If you use the code, data, guidelines from DaN+, please include the following tw
     archivePrefix={arXiv},
     primaryClass={cs.CL}
 }
+```
+
+The Danish News data is based on (Johannsen et al., 2015):
+
+
+```
+    Johannsen, Anders, Martínez Alonso, Héctor and Plank, Barbara. “Universal Dependencies for Danish”. TLT14, 2015.
+
+    Buch-Kromann, Matthias T., Line Mikkelsen, and Stine Kern Lynge. “Danish dependency treebank.”. TLT. 2003.
+
+    Keson, Britt (1998). Documentation of The Danish Morpho-syntactically Tagged PAROLE Corpus. Technical report, DSL
 ```
 
 
