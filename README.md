@@ -4,7 +4,7 @@
 
 <a href="DaNplus-poster.pdf"><img src="img/DaNplus-poster.png" width="100"></a>
 
-This repository contains the code to reproduce the results of Plank, Nørgaard Jensen, van der Goot, 2020 (COLING). [Nested NER and Lexical Normalization for Danish (DaN+)](https://www.aclweb.org/anthology/2020.coling-main.583/). 
+This repository contains the code and data for the paper [Nested NER and Lexical Normalization for Danish (DaN+)](https://www.aclweb.org/anthology/2020.coling-main.583/) by Plank, Nørgaard Jensen and van der Goot, 2020 (COLING).
 
 ## Nested Named Entity Recognition (NNER)
 
@@ -105,6 +105,8 @@ The Danish News data is based on (Johannsen et al., 2015):
 
     Keson, Britt (1998). Documentation of The Danish Morpho-syntactically Tagged PAROLE Corpus. Technical report, DSL
 ```
+
+
 
 
 
