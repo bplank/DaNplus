@@ -38,5 +38,5 @@ do
 	fi
 	rm $$tmp
     fi
-#done < 1.train.sh | head -1
-done < 1.train.sh 
+#done < 1.train.sh | head -5
+done < 1.train.sh
