@@ -62,7 +62,7 @@ In this repository you'll find:
 Additionally, these scripts will download the following folders:
 
 * `monoise`: MoNoise is a state-of-the-art lexical normalization model (van der Goot, 2019)
-* `mtp`: Contains MaChAmp, a bert-based sequence labeler (van der Goot et al., 2020)
+* `mtp`: Contains MaChAmp, a bert-based sequence labeler (van der Goot et al., 2020). We recommend to check out [MaChAmp's project repo](https://machamp-nlp.github.io/)
 
 # References
 
@@ -85,14 +85,15 @@ If you use the code, data, guidelines from DaN+, please include the following re
 
 ```
 ```
-@misc{goot2020massive,
-    title={Massive Choice, Ample Tasks (MaChAmp): A Toolkit for Multi-task Learning in NLP},
-    author={Rob van der Goot and Ahmet Üstün and Alan Ramponi and Barbara Plank},
-    year={2020},
-    eprint={2005.14672},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{vandergoot-etal-2020-machamp,
+    title={Massive {C}hoice, {A}mple Tasks ({MaChAmp}): A Toolkit for Multi-task Learning in {NLP}},
+    author={Rob van der Goot and Ahmet {\"U}st{\"u}n and Alan Ramponi and Sharaf, Ibrahim and Barbara Plank},
+    booktitle = "Proceedings of the Software Demonstrations of the 16th Conference of the {E}uropean Chapter of the Association for Computational Linguistics",
+    month = feb,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
 }
+
 ```
 
 The Danish News data is based on (Johannsen et al., 2015):
